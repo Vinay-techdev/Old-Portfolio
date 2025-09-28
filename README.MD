@@ -3,11 +3,13 @@
 This is my **old personal portfolio website**, built to showcase my projects, skills, and experience. It was my first step towards building an online presence as a developer.
 
 🔗 I’ve now built a **new and improved portfolio** with a modern design, better performance, and more interactive features.
+
 👉 Check it out here: [My New Portfolio](https://vinay-portfolio-three-chi.vercel.app)
 
 ---
 
-🔗 **Live Link** Old Portfolio
+## 🔗 Live Link
+
 👉 Check it out here: [My old Portfolio](https://old-portfolio-sooty.vercel.app)
 
 ---
@@ -44,4 +46,12 @@ git clone https://github.com/Vinay-techdev/Old-Portfolio.git
 * All future updates will be on my new portfolio.
 
 This repo is no longer maintained. Please visit my new portfolio for the latest updates and projects.
+
 👉 [Visit My New Portfolio](https://vinay-portfolio-three-chi.vercel.app)
+
+---
+
+# 📢 Connect With Me
+Let’s connect and collaborate!
+📧 Email: vinayp.techdev@email.com
+🔗 [LinkedIn](https://www.linkedin.com/in/vinay-techdev)
